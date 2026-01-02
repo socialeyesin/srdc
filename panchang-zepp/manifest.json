@@ -1,0 +1,13 @@
+{
+  "package": "com.example.panchang",
+  "platform": "watch",
+  "appType": "app",
+  "version": "1.0.0",
+  "minPlatformVersion": "2.0",
+  "icon": "images/icon.png",
+  "pages": ["page/index"],
+  "permissions": [
+    "system.permission.LOCATION",
+    "system.permission.NETWORK"
+  ]
+}

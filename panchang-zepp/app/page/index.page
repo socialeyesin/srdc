@@ -1,0 +1,9 @@
+<page>
+  <group name="root" x="0" y="0" w="192" h="490">
+    <text name="title" x="8" y="8" w="176" h="32" text="🕉श्री हरिहरो विजयतेतराम🕉" text_size="18" />
+    <text name="subtitle" x="8" y="40" w="176" h="24" text="🌄सुप्रभातम🌄" text_size="16" />
+    <text name="section" x="8" y="68" w="176" h="24" text="🗓आज का पञ्चाङ्ग🗓" text_size="16" />
+    <text name="date" x="8" y="96" w="176" h="24" text="" text_size="16" />
+    <group name="list" x="8" y="124" w="176" h="340"></group>
+  </group>
+</page>
