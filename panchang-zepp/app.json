@@ -1,0 +1,8 @@
+{
+  "app": {
+    "appName": "Hindu Panchang",
+    "version": "1.0.0",
+    "icon": "images/icon.png",
+    "type": "app"
+  }
+}
